@@ -1,4 +1,4 @@
-# Hi, I'm Arsenio (Sen) Stanley
+# Hi, I'm Arsenio Stanley
 
 🖥️ Linux Engineer | CompTIA Security+ Certified | DoD 8570 IAT Level II Compliant
 
