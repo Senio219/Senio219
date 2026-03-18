@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Arsenio (Sen) Stanley
 
-<!--
-**Senio219/Senio219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Linux Engineer | CompTIA Security+ Certified | DoD 8570 IAT Level II Compliant
 
-Here are some ideas to get you started:
+I'm a Linux Engineer with 10+ years of enterprise professional experience, currently building hands-on skills in Linux systems administration and security hardening. My home lab runs Rocky Linux — a binary-compatible rebuild of Red Hat Enterprise Linux (RHEL) — the same environment used across DoD agencies and government contractors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Skills
+
+- **Operating Systems:** Rocky Linux, RHEL, CentOS, Linux CLI
+- **Linux Administration:** systemd, systemctl, dnf, rpm, SSH, cron, journalctl
+- **Security & Hardening:** SELinux, firewalld, SSH hardening, auditd, DoD STIG compliance
+- **Scripting:** Bash, shell scripting, task automation
+- **Networking:** TCP/IP, DNS, firewall rule management
+- **Data & Analytics:** SQL, Advanced Excel, data modeling
+
+---
+
+## 🏗️ Current Projects
+
+- **rocky-linux-homelab** — Deploying and hardening a Rocky Linux environment simulating DoD contractor infrastructure
+- **bash-scripts** — Collection of Bash scripts for Linux system administration and automation
+
+---
+
+## 🎯 Currently Working On
+
+- Expanding Rocky Linux home lab with SELinux policy configuration and STIG hardening
+- Building Bash automation scripts for system administration tasks
+- Pursuing RHCSA certification
+
+---
+
+## 📫 Contact
+
+- Email: senio8888@gmail.com
